@@ -43,9 +43,9 @@ The repository includes the following scripts:
 ## Requirements
 
 Ensure you have Python installed. You may need to install additional packages using `pip`:
-bash
+```bash
 pip install -r requirements.txt
-
+```
 ### Dependencies
 
 The project requires the following Python packages:
@@ -103,9 +103,9 @@ The project requires the following Python packages:
 ## Usage
 
 To summarize a YouTube video and generate a podcast script, run the following command:
-bash
+```bash
 python3 youtube_summarizer.py <youtube_url>
-
+```
 Replace `<youtube_url>` with the actual URL of the YouTube video you want to process.
 
 ## Logging
