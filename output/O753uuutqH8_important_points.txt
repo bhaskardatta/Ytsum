@@ -1,0 +1,1663 @@
+Time: 00:00:04.680 - 00:00:06.630
+Text: hi I'm kianne and welcome to crash
+course computer science so we've talked
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=4s
+----------------------------------------
+Time: 00:00:06.640 - 00:00:08.470
+Text: course computer science so we've talked
+a lot about sorting in this series and
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=6s
+----------------------------------------
+Time: 00:00:08.480 - 00:00:10.110
+Text: a lot about sorting in this series and
+often code to sort a list of numbers is
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=8s
+----------------------------------------
+Time: 00:00:10.120 - 00:00:12.190
+Text: often code to sort a list of numbers is
+only 10 lines long which is pretty easy
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=10s
+----------------------------------------
+Time: 00:00:12.200 - 00:00:14.270
+Text: only 10 lines long which is pretty easy
+for a single programmer to write plus
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=12s
+----------------------------------------
+Time: 00:00:14.280 - 00:00:15.350
+Text: for a single programmer to write plus
+it's short enough that you don't need
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=14s
+----------------------------------------
+Time: 00:00:15.360 - 00:00:16.990
+Text: it's short enough that you don't need
+any special tools you can do it in
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=15s
+----------------------------------------
+Time: 00:00:17.000 - 00:00:19.830
+Text: any special tools you can do it in
+notepad really but a sorting algorithm
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=17s
+----------------------------------------
+Time: 00:00:19.840 - 00:00:22.070
+Text: notepad really but a sorting algorithm
+isn't a program it's likely only a small
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=19s
+----------------------------------------
+Time: 00:00:22.080 - 00:00:23.870
+Text: isn't a program it's likely only a small
+part of a much larger program for
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=22s
+----------------------------------------
+Time: 00:00:23.880 - 00:00:26.070
+Text: part of a much larger program for
+example Microsoft Office has roughly 40
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=23s
+----------------------------------------
+Time: 00:00:26.080 - 00:00:29.269
+Text: example Microsoft Office has roughly 40
+million lines of code 40 million that's
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=26s
+----------------------------------------
+Time: 00:00:29.279 - 00:00:31.269
+Text: million lines of code 40 million that's
+way too big for any one person to figure
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=29s
+----------------------------------------
+Time: 00:00:31.279 - 00:00:33.229
+Text: way too big for any one person to figure
+out and write to build huge programs
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=31s
+----------------------------------------
+Time: 00:00:33.239 - 00:00:34.910
+Text: out and write to build huge programs
+like this programmers use a set of tools
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=33s
+----------------------------------------
+Time: 00:00:34.920 - 00:00:37.190
+Text: like this programmers use a set of tools
+and practices taken together these form
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=34s
+----------------------------------------
+Time: 00:00:37.200 - 00:00:39.670
+Text: and practices taken together these form
+the discipline of software engineering a
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=37s
+----------------------------------------
+Time: 00:00:39.680 - 00:00:41.190
+Text: the discipline of software engineering a
+term coined by engineer Margaret
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=39s
+----------------------------------------
+Time: 00:00:41.200 - 00:00:43.389
+Text: term coined by engineer Margaret
+Hamilton who helped NASA prevent serious
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=41s
+----------------------------------------
+Time: 00:00:43.399 - 00:00:45.190
+Text: Hamilton who helped NASA prevent serious
+problems on the Apollo 11 Mission To The
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=43s
+----------------------------------------
+Time: 00:00:45.200 - 00:00:47.229
+Text: problems on the Apollo 11 Mission To The
+Moon she want explained it this way it's
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=45s
+----------------------------------------
+Time: 00:00:47.239 - 00:00:48.950
+Text: Moon she want explained it this way it's
+kind of like a root canal you waited
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=47s
+----------------------------------------
+Time: 00:00:48.960 - 00:00:50.590
+Text: kind of like a root canal you waited
+till the end but there are things you
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=48s
+----------------------------------------
+Time: 00:00:50.600 - 00:00:52.349
+Text: till the end but there are things you
+could have done beforehand it's like
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=50s
+----------------------------------------
+Time: 00:00:52.359 - 00:00:53.990
+Text: could have done beforehand it's like
+preventative healthare but it's
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=52s
+----------------------------------------
+Time: 00:00:54.000 - 00:01:04.310
+Text: preventative healthare but it's
+preventative software
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=54s
+----------------------------------------
+Time: 00:01:06.080 - 00:01:07.950
+Text: as I mentioned in episode 12 breaking
+big programs into smaller functions
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=66s
+----------------------------------------
+Time: 00:01:07.960 - 00:01:09.190
+Text: big programs into smaller functions
+allows many people to work
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=67s
+----------------------------------------
+Time: 00:01:09.200 - 00:01:11.149
+Text: allows many people to work
+simultaneously they don't have to worry
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=69s
+----------------------------------------
+Time: 00:01:11.159 - 00:01:12.990
+Text: simultaneously they don't have to worry
+about the whole thing just the function
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=71s
+----------------------------------------
+Time: 00:01:13.000 - 00:01:14.870
+Text: about the whole thing just the function
+they're working on so if you're task
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=73s
+----------------------------------------
+Time: 00:01:14.880 - 00:01:16.789
+Text: they're working on so if you're task
+with writing a sort algorithm you only
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=74s
+----------------------------------------
+Time: 00:01:16.799 - 00:01:18.910
+Text: with writing a sort algorithm you only
+need to make sure it sorts properly and
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=76s
+----------------------------------------
+Time: 00:01:18.920 - 00:01:20.789
+Text: need to make sure it sorts properly and
+efficiently however even packing up code
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=78s
+----------------------------------------
+Time: 00:01:20.799 - 00:01:22.910
+Text: efficiently however even packing up code
+into functions isn't enough Microsoft
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=80s
+----------------------------------------
+Time: 00:01:22.920 - 00:01:24.510
+Text: into functions isn't enough Microsoft
+Office probably contains hundreds of
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=82s
+----------------------------------------
+Time: 00:01:24.520 - 00:01:26.069
+Text: Office probably contains hundreds of
+thousands of them that's better than
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=84s
+----------------------------------------
+Time: 00:01:26.079 - 00:01:27.870
+Text: thousands of them that's better than
+dealing with 40 million lines of code
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=86s
+----------------------------------------
+Time: 00:01:27.880 - 00:01:29.429
+Text: dealing with 40 million lines of code
+but it's still way too many things for
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=87s
+----------------------------------------
+Time: 00:01:29.439 - 00:01:31.789
+Text: but it's still way too many things for
+one person not te to manage the solution
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=89s
+----------------------------------------
+Time: 00:01:31.799 - 00:01:34.350
+Text: one person not te to manage the solution
+is to package functions into hierarchies
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=91s
+----------------------------------------
+Time: 00:01:34.360 - 00:01:36.030
+Text: is to package functions into hierarchies
+pulling related code together into
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=94s
+----------------------------------------
+Time: 00:01:36.040 - 00:01:38.149
+Text: pulling related code together into
+objects for example cars software might
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=96s
+----------------------------------------
+Time: 00:01:38.159 - 00:01:39.870
+Text: objects for example cars software might
+have several functions related to cruise
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=98s
+----------------------------------------
+Time: 00:01:39.880 - 00:01:42.149
+Text: have several functions related to cruise
+control like setting speed nudging speed
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=99s
+----------------------------------------
+Time: 00:01:42.159 - 00:01:44.030
+Text: control like setting speed nudging speed
+up or down and stopping cruise control
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=102s
+----------------------------------------
+Time: 00:01:44.040 - 00:01:45.910
+Text: up or down and stopping cruise control
+altogether since they're all related we
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=104s
+----------------------------------------
+Time: 00:01:45.920 - 00:01:47.590
+Text: altogether since they're all related we
+can wrap them up into a unified cruise
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=105s
+----------------------------------------
+Time: 00:01:47.600 - 00:01:49.870
+Text: can wrap them up into a unified cruise
+control object but we don't have to stop
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=107s
+----------------------------------------
+Time: 00:01:49.880 - 00:01:51.550
+Text: control object but we don't have to stop
+there cruise control is just one part of
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=109s
+----------------------------------------
+Time: 00:01:51.560 - 00:01:53.510
+Text: there cruise control is just one part of
+the engine software there might also be
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=111s
+----------------------------------------
+Time: 00:01:53.520 - 00:01:55.069
+Text: the engine software there might also be
+sets of functions that control spark
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=113s
+----------------------------------------
+Time: 00:01:55.079 - 00:01:57.029
+Text: sets of functions that control spark
+plug ignition fuel pumps and the
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=115s
+----------------------------------------
+Time: 00:01:57.039 - 00:01:59.310
+Text: plug ignition fuel pumps and the
+radiator so we can create a parent
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=117s
+----------------------------------------
+Time: 00:01:59.320 - 00:02:00.870
+Text: radiator so we can create a parent
+engine object object that contains all
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=119s
+----------------------------------------
+Time: 00:02:00.880 - 00:02:02.830
+Text: engine object object that contains all
+of these children objects in addition to
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=120s
+----------------------------------------
+Time: 00:02:02.840 - 00:02:04.469
+Text: of these children objects in addition to
+Children objects the engine itself might
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=122s
+----------------------------------------
+Time: 00:02:04.479 - 00:02:06.190
+Text: Children objects the engine itself might
+have its own functions you want to be
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=124s
+----------------------------------------
+Time: 00:02:06.200 - 00:02:08.309
+Text: have its own functions you want to be
+able to stop and start it for example
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=126s
+----------------------------------------
+Time: 00:02:08.319 - 00:02:10.070
+Text: able to stop and start it for example
+it'll also have its own variables like
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=128s
+----------------------------------------
+Time: 00:02:10.080 - 00:02:12.229
+Text: it'll also have its own variables like
+how many miles the car has traveled in
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=130s
+----------------------------------------
+Time: 00:02:12.239 - 00:02:14.030
+Text: how many miles the car has traveled in
+general objects can contain other
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=132s
+----------------------------------------
+Time: 00:02:14.040 - 00:02:16.070
+Text: general objects can contain other
+objects functions and variables and of
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=134s
+----------------------------------------
+Time: 00:02:16.080 - 00:02:17.949
+Text: objects functions and variables and of
+course the engine is just one part of a
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=136s
+----------------------------------------
+Time: 00:02:17.959 - 00:02:20.270
+Text: course the engine is just one part of a
+car object there's also the transmission
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=137s
+----------------------------------------
+Time: 00:02:20.280 - 00:02:22.670
+Text: car object there's also the transmission
+Wheels doors windows and so on now as a
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=140s
+----------------------------------------
+Time: 00:02:22.680 - 00:02:24.309
+Text: Wheels doors windows and so on now as a
+programmer if I want to set the cruise
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=142s
+----------------------------------------
+Time: 00:02:24.319 - 00:02:25.790
+Text: programmer if I want to set the cruise
+control I navigate down the object
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=144s
+----------------------------------------
+Time: 00:02:25.800 - 00:02:27.869
+Text: control I navigate down the object
+hierarchy from the outermost objects to
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=145s
+----------------------------------------
+Time: 00:02:27.879 - 00:02:29.910
+Text: hierarchy from the outermost objects to
+more and more deeply nested ones if
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=147s
+----------------------------------------
+Time: 00:02:29.920 - 00:02:31.509
+Text: more and more deeply nested ones if
+eventually I reach the function I want
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=149s
+----------------------------------------
+Time: 00:02:31.519 - 00:02:34.030
+Text: eventually I reach the function I want
+to trigger car then engine then cruise
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=151s
+----------------------------------------
+Time: 00:02:34.040 - 00:02:36.309
+Text: to trigger car then engine then cruise
+control then set cruise speed to 55
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=154s
+----------------------------------------
+Time: 00:02:36.319 - 00:02:37.710
+Text: control then set cruise speed to 55
+programming languages often use
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=156s
+----------------------------------------
+Time: 00:02:37.720 - 00:02:39.589
+Text: programming languages often use
+something equivalent to the syntax shown
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=157s
+----------------------------------------
+Time: 00:02:39.599 - 00:02:41.270
+Text: something equivalent to the syntax shown
+here the idea of packing up functional
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=159s
+----------------------------------------
+Time: 00:02:41.280 - 00:02:43.030
+Text: here the idea of packing up functional
+units into nested objects is called
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=161s
+----------------------------------------
+Time: 00:02:43.040 - 00:02:45.030
+Text: units into nested objects is called
+objectoriented programming this is very
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=163s
+----------------------------------------
+Time: 00:02:45.040 - 00:02:46.630
+Text: objectoriented programming this is very
+similar to what we've done all series
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=165s
+----------------------------------------
+Time: 00:02:46.640 - 00:02:49.110
+Text: similar to what we've done all series
+long HED complexity by encapsulating
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=166s
+----------------------------------------
+Time: 00:02:49.120 - 00:02:51.149
+Text: long HED complexity by encapsulating
+low-level details in higher order
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=169s
+----------------------------------------
+Time: 00:02:51.159 - 00:02:53.070
+Text: low-level details in higher order
+components before we packed up things
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=171s
+----------------------------------------
+Time: 00:02:53.080 - 00:02:54.910
+Text: components before we packed up things
+like transistor circuits into higher
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=173s
+----------------------------------------
+Time: 00:02:54.920 - 00:02:57.030
+Text: like transistor circuits into higher
+level Boolean Gates now we're doing the
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=174s
+----------------------------------------
+Time: 00:02:57.040 - 00:02:59.309
+Text: level Boolean Gates now we're doing the
+same thing with software yet again it's
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=177s
+----------------------------------------
+Time: 00:02:59.319 - 00:03:06.789
+Text: same thing with software yet again it's
+a way to move move up a new level of
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=179s
+----------------------------------------
+Time: 00:03:09.120 - 00:03:10.670
+Text: abstraction breaking up a big program
+like a car's software into functional
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=189s
+----------------------------------------
+Time: 00:03:10.680 - 00:03:13.190
+Text: like a car's software into functional
+units is perfect for teams one team
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=190s
+----------------------------------------
+Time: 00:03:13.200 - 00:03:14.470
+Text: units is perfect for teams one team
+might be responsible for the cruise
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=193s
+----------------------------------------
+Time: 00:03:14.480 - 00:03:16.750
+Text: might be responsible for the cruise
+control system and a single programmer
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=194s
+----------------------------------------
+Time: 00:03:16.760 - 00:03:18.670
+Text: control system and a single programmer
+on that team tackles a handful of
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=196s
+----------------------------------------
+Time: 00:03:18.680 - 00:03:20.390
+Text: on that team tackles a handful of
+functions this is similar to how big
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=198s
+----------------------------------------
+Time: 00:03:20.400 - 00:03:21.589
+Text: functions this is similar to how big
+physical things are built like
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=200s
+----------------------------------------
+Time: 00:03:21.599 - 00:03:23.630
+Text: physical things are built like
+skyscrapers you'll have electricians
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=201s
+----------------------------------------
+Time: 00:03:23.640 - 00:03:25.470
+Text: skyscrapers you'll have electricians
+running wires plumbers fitting pipes
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=203s
+----------------------------------------
+Time: 00:03:25.480 - 00:03:27.509
+Text: running wires plumbers fitting pipes
+welders welding painters painting and
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=205s
+----------------------------------------
+Time: 00:03:27.519 - 00:03:28.869
+Text: welders welding painters painting and
+hundreds of other people teaming All
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=207s
+----------------------------------------
+Time: 00:03:28.879 - 00:03:30.710
+Text: hundreds of other people teaming All
+Over the Hole they work together on
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=208s
+----------------------------------------
+Time: 00:03:30.720 - 00:03:32.390
+Text: Over the Hole they work together on
+different parts simultaneously
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=210s
+----------------------------------------
+Time: 00:03:32.400 - 00:03:34.309
+Text: different parts simultaneously
+leveraging their different skills until
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=212s
+----------------------------------------
+Time: 00:03:34.319 - 00:03:36.070
+Text: leveraging their different skills until
+one day you've got a whole working
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=214s
+----------------------------------------
+Time: 00:03:36.080 - 00:03:37.789
+Text: one day you've got a whole working
+building but returning to our cruise
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=216s
+----------------------------------------
+Time: 00:03:37.799 - 00:03:39.670
+Text: building but returning to our cruise
+control example its code is going to
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=217s
+----------------------------------------
+Time: 00:03:39.680 - 00:03:41.429
+Text: control example its code is going to
+have to make use of functions in other
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=219s
+----------------------------------------
+Time: 00:03:41.439 - 00:03:43.550
+Text: have to make use of functions in other
+parts of the engine software to you know
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=221s
+----------------------------------------
+Time: 00:03:43.560 - 00:03:45.550
+Text: parts of the engine software to you know
+keep the car at a constant speed that
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=223s
+----------------------------------------
+Time: 00:03:45.560 - 00:03:46.949
+Text: keep the car at a constant speed that
+code isn't part of the cruise control
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=225s
+----------------------------------------
+Time: 00:03:46.959 - 00:03:48.789
+Text: code isn't part of the cruise control
+team's responsibility it's another
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=226s
+----------------------------------------
+Time: 00:03:48.799 - 00:03:50.550
+Text: team's responsibility it's another
+team's code because the cruise control
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=228s
+----------------------------------------
+Time: 00:03:50.560 - 00:03:52.149
+Text: team's code because the cruise control
+team didn't write that they're going to
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=230s
+----------------------------------------
+Time: 00:03:52.159 - 00:03:54.030
+Text: team didn't write that they're going to
+need good documentation about what each
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=232s
+----------------------------------------
+Time: 00:03:54.040 - 00:03:55.670
+Text: need good documentation about what each
+function in the code does and a
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=234s
+----------------------------------------
+Time: 00:03:55.680 - 00:03:57.630
+Text: function in the code does and a
+well-defined application programming
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=235s
+----------------------------------------
+Time: 00:03:57.640 - 00:04:00.110
+Text: well-defined application programming
+interface or API for short you can think
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=237s
+----------------------------------------
+Time: 00:04:00.120 - 00:04:02.030
+Text: interface or API for short you can think
+of an API as the way that collaborating
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=240s
+----------------------------------------
+Time: 00:04:02.040 - 00:04:03.670
+Text: of an API as the way that collaborating
+programmers interact across various
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=242s
+----------------------------------------
+Time: 00:04:03.680 - 00:04:05.670
+Text: programmers interact across various
+parts of the code for example in the
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=243s
+----------------------------------------
+Time: 00:04:05.680 - 00:04:07.429
+Text: parts of the code for example in the
+ignition control object there might be
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=245s
+----------------------------------------
+Time: 00:04:07.439 - 00:04:09.550
+Text: ignition control object there might be
+functions to set the RPM of the engine
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=247s
+----------------------------------------
+Time: 00:04:09.560 - 00:04:11.429
+Text: functions to set the RPM of the engine
+check the spark plug voltage as well as
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=249s
+----------------------------------------
+Time: 00:04:11.439 - 00:04:13.190
+Text: check the spark plug voltage as well as
+fire the individual spark plugs being
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=251s
+----------------------------------------
+Time: 00:04:13.200 - 00:04:15.069
+Text: fire the individual spark plugs being
+able to set the motor's RPM is really
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=253s
+----------------------------------------
+Time: 00:04:15.079 - 00:04:16.909
+Text: able to set the motor's RPM is really
+useful the cruise control team is going
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=255s
+----------------------------------------
+Time: 00:04:16.919 - 00:04:19.030
+Text: useful the cruise control team is going
+to need to call that function but they
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=256s
+----------------------------------------
+Time: 00:04:19.040 - 00:04:20.629
+Text: to need to call that function but they
+don't know much about how the ignition
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=259s
+----------------------------------------
+Time: 00:04:20.639 - 00:04:22.710
+Text: don't know much about how the ignition
+system works it's not a good idea to let
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=260s
+----------------------------------------
+Time: 00:04:22.720 - 00:04:24.189
+Text: system works it's not a good idea to let
+them call functions that fire the
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=262s
+----------------------------------------
+Time: 00:04:24.199 - 00:04:26.150
+Text: them call functions that fire the
+individual spark plugs or the engine
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=264s
+----------------------------------------
+Time: 00:04:26.160 - 00:04:28.749
+Text: individual spark plugs or the engine
+might explode maybe the API allows the
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=266s
+----------------------------------------
+Time: 00:04:28.759 - 00:04:30.189
+Text: might explode maybe the API allows the
+right people access to the right
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=268s
+----------------------------------------
+Time: 00:04:30.199 - 00:04:32.029
+Text: right people access to the right
+functions and data objectoriented
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=270s
+----------------------------------------
+Time: 00:04:32.039 - 00:04:33.629
+Text: functions and data objectoriented
+programming languages do this by letting
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=272s
+----------------------------------------
+Time: 00:04:33.639 - 00:04:35.390
+Text: programming languages do this by letting
+you specify whether functions are public
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=273s
+----------------------------------------
+Time: 00:04:35.400 - 00:04:37.469
+Text: you specify whether functions are public
+or private if a function is marked as
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=275s
+----------------------------------------
+Time: 00:04:37.479 - 00:04:39.590
+Text: or private if a function is marked as
+private it means only functions inside
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=277s
+----------------------------------------
+Time: 00:04:39.600 - 00:04:41.590
+Text: private it means only functions inside
+that object can call it so in this
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=279s
+----------------------------------------
+Time: 00:04:41.600 - 00:04:43.629
+Text: that object can call it so in this
+example only other functions inside of
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=281s
+----------------------------------------
+Time: 00:04:43.639 - 00:04:45.870
+Text: example only other functions inside of
+ignition control like the set RPM
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=283s
+----------------------------------------
+Time: 00:04:45.880 - 00:04:48.150
+Text: ignition control like the set RPM
+function can fire the spark plugs on the
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=285s
+----------------------------------------
+Time: 00:04:48.160 - 00:04:50.350
+Text: function can fire the spark plugs on the
+other hand because the set RPM function
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=288s
+----------------------------------------
+Time: 00:04:50.360 - 00:04:52.550
+Text: other hand because the set RPM function
+is marked as public other objects can
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=290s
+----------------------------------------
+Time: 00:04:52.560 - 00:04:54.749
+Text: is marked as public other objects can
+call it like cruise control this ability
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=292s
+----------------------------------------
+Time: 00:04:54.759 - 00:04:56.629
+Text: call it like cruise control this ability
+to hide complexity and selectively
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=294s
+----------------------------------------
+Time: 00:04:56.639 - 00:04:57.909
+Text: to hide complexity and selectively
+reveal it is the essence of
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=296s
+----------------------------------------
+Time: 00:04:57.919 - 00:04:59.909
+Text: reveal it is the essence of
+object-oriented programming and it's a
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=297s
+----------------------------------------
+Time: 00:04:59.919 - 00:05:01.270
+Text: object-oriented programming and it's a
+powerful and popular way to tackle
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=299s
+----------------------------------------
+Time: 00:05:01.280 - 00:05:03.350
+Text: powerful and popular way to tackle
+building large and complex programs
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=301s
+----------------------------------------
+Time: 00:05:03.360 - 00:05:04.909
+Text: building large and complex programs
+pretty much every piece of software on
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=303s
+----------------------------------------
+Time: 00:05:04.919 - 00:05:06.590
+Text: pretty much every piece of software on
+your computer or game running on your
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=304s
+----------------------------------------
+Time: 00:05:06.600 - 00:05:07.909
+Text: your computer or game running on your
+console was built using an
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=306s
+----------------------------------------
+Time: 00:05:07.919 - 00:05:09.629
+Text: console was built using an
+object-oriented programming language
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=307s
+----------------------------------------
+Time: 00:05:09.639 - 00:05:13.150
+Text: object-oriented programming language
+like C++ C or objective c other popular
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=309s
+----------------------------------------
+Time: 00:05:13.160 - 00:05:14.830
+Text: like C++ C or objective c other popular
+oo languages you may have heard of are
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=313s
+----------------------------------------
+Time: 00:05:14.840 - 00:05:16.390
+Text: oo languages you may have heard of are
+Python and Java it's important to
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=314s
+----------------------------------------
+Time: 00:05:16.400 - 00:05:18.070
+Text: Python and Java it's important to
+remember that code before being compiled
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=316s
+----------------------------------------
+Time: 00:05:18.080 - 00:05:19.990
+Text: remember that code before being compiled
+is just text as I mentioned earlier you
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=318s
+----------------------------------------
+Time: 00:05:20.000 - 00:05:22.150
+Text: is just text as I mentioned earlier you
+could write code in notepad or any old
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=320s
+----------------------------------------
+Time: 00:05:22.160 - 00:05:24.309
+Text: could write code in notepad or any old
+word processor some people do but
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=322s
+----------------------------------------
+Time: 00:05:24.319 - 00:05:26.070
+Text: word processor some people do but
+generally today software developers use
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=324s
+----------------------------------------
+Time: 00:05:26.080 - 00:05:27.909
+Text: generally today software developers use
+special purpose applications for writing
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=326s
+----------------------------------------
+Time: 00:05:27.919 - 00:05:30.390
+Text: special purpose applications for writing
+programs ones that integrate many useful
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=327s
+----------------------------------------
+Time: 00:05:30.400 - 00:05:32.909
+Text: programs ones that integrate many useful
+tools for writing organizing compiling
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=330s
+----------------------------------------
+Time: 00:05:32.919 - 00:05:34.950
+Text: tools for writing organizing compiling
+and testing code because they've put
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=332s
+----------------------------------------
+Time: 00:05:34.960 - 00:05:36.550
+Text: and testing code because they've put
+everything you need in one place they're
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=334s
+----------------------------------------
+Time: 00:05:36.560 - 00:05:38.070
+Text: everything you need in one place they're
+called integrated development
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=336s
+----------------------------------------
+Time: 00:05:38.080 - 00:05:40.629
+Text: called integrated development
+environments or Ides for shorts all Ides
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=338s
+----------------------------------------
+Time: 00:05:40.639 - 00:05:42.590
+Text: environments or Ides for shorts all Ides
+provide a text editor for writing code
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=340s
+----------------------------------------
+Time: 00:05:42.600 - 00:05:43.990
+Text: provide a text editor for writing code
+often with useful features like
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=342s
+----------------------------------------
+Time: 00:05:44.000 - 00:05:45.430
+Text: often with useful features like
+automatic color coding to improve
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=344s
+----------------------------------------
+Time: 00:05:45.440 - 00:05:47.629
+Text: automatic color coding to improve
+readability many even check for syntax
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=345s
+----------------------------------------
+Time: 00:05:47.639 - 00:05:49.510
+Text: readability many even check for syntax
+errors as you type like spell check for
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=347s
+----------------------------------------
+Time: 00:05:49.520 - 00:05:51.550
+Text: errors as you type like spell check for
+code big programs contain lots of
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=349s
+----------------------------------------
+Time: 00:05:51.560 - 00:05:53.710
+Text: code big programs contain lots of
+individual source files so ID allow
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=351s
+----------------------------------------
+Time: 00:05:53.720 - 00:05:55.629
+Text: individual source files so ID allow
+programmers to organize and efficiently
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=353s
+----------------------------------------
+Time: 00:05:55.639 - 00:05:57.469
+Text: programmers to organize and efficiently
+navigate everything also built right
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=355s
+----------------------------------------
+Time: 00:05:57.479 - 00:05:59.749
+Text: navigate everything also built right
+into the IDE is the ability to compile
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=357s
+----------------------------------------
+Time: 00:05:59.759 - 00:06:01.870
+Text: into the IDE is the ability to compile
+run code and if your program crashes
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=359s
+----------------------------------------
+Time: 00:06:01.880 - 00:06:03.469
+Text: run code and if your program crashes
+because it's still a work in progress
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=361s
+----------------------------------------
+Time: 00:06:03.479 - 00:06:05.150
+Text: because it's still a work in progress
+the IDE can take you back to the line of
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=363s
+----------------------------------------
+Time: 00:06:05.160 - 00:06:07.150
+Text: the IDE can take you back to the line of
+code where it happened and often provide
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=365s
+----------------------------------------
+Time: 00:06:07.160 - 00:06:08.589
+Text: code where it happened and often provide
+you additional information to help you
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=367s
+----------------------------------------
+Time: 00:06:08.599 - 00:06:10.469
+Text: you additional information to help you
+track down and fix the bug which is a
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=368s
+----------------------------------------
+Time: 00:06:10.479 - 00:06:12.110
+Text: track down and fix the bug which is a
+process called debugging this is
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=370s
+----------------------------------------
+Time: 00:06:12.120 - 00:06:13.830
+Text: process called debugging this is
+important because most programmers spend
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=372s
+----------------------------------------
+Time: 00:06:13.840 - 00:06:15.790
+Text: important because most programmers spend
+70 to 80% of their time testing and
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=373s
+----------------------------------------
+Time: 00:06:15.800 - 00:06:18.150
+Text: 70 to 80% of their time testing and
+debugging not writing new code good
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=375s
+----------------------------------------
+Time: 00:06:18.160 - 00:06:20.029
+Text: debugging not writing new code good
+tools contained in Ides can go a long
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=378s
+----------------------------------------
+Time: 00:06:20.039 - 00:06:21.830
+Text: tools contained in Ides can go a long
+way when it comes to helping programmers
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=380s
+----------------------------------------
+Time: 00:06:21.840 - 00:06:24.029
+Text: way when it comes to helping programmers
+prevent and find errors many computer
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=381s
+----------------------------------------
+Time: 00:06:24.039 - 00:06:25.670
+Text: prevent and find errors many computer
+programmers can be pretty loyal to their
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=384s
+----------------------------------------
+Time: 00:06:25.680 - 00:06:28.110
+Text: programmers can be pretty loyal to their
+idees though but let's be honest Vim is
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=385s
+----------------------------------------
+Time: 00:06:28.120 - 00:06:29.670
+Text: idees though but let's be honest Vim is
+where it's at providing you know how
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=388s
+----------------------------------------
+Time: 00:06:29.680 - 00:06:30.990
+Text: where it's at providing you know how
+equip in addition to coding and
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=389s
+----------------------------------------
+Time: 00:06:31.000 - 00:06:32.510
+Text: equip in addition to coding and
+debugging another important part of a
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=391s
+----------------------------------------
+Time: 00:06:32.520 - 00:06:34.350
+Text: debugging another important part of a
+programmer's job is documenting their
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=392s
+----------------------------------------
+Time: 00:06:34.360 - 00:06:36.230
+Text: programmer's job is documenting their
+code this can be done in Standalone
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=394s
+----------------------------------------
+Time: 00:06:36.240 - 00:06:38.270
+Text: code this can be done in Standalone
+files called readmes which tell other
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=396s
+----------------------------------------
+Time: 00:06:38.280 - 00:06:39.909
+Text: files called readmes which tell other
+programmers to read that help file
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=398s
+----------------------------------------
+Time: 00:06:39.919 - 00:06:41.589
+Text: programmers to read that help file
+before diving in it can also happen
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=399s
+----------------------------------------
+Time: 00:06:41.599 - 00:06:43.589
+Text: before diving in it can also happen
+writing the code itself with comments
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=401s
+----------------------------------------
+Time: 00:06:43.599 - 00:06:45.070
+Text: writing the code itself with comments
+these are specially marked statements
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=403s
+----------------------------------------
+Time: 00:06:45.080 - 00:06:46.550
+Text: these are specially marked statements
+that the program knows to ignore when
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=405s
+----------------------------------------
+Time: 00:06:46.560 - 00:06:48.670
+Text: that the program knows to ignore when
+the code is compiled they exist only to
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=406s
+----------------------------------------
+Time: 00:06:48.680 - 00:06:50.150
+Text: the code is compiled they exist only to
+help programmers figure out what's what
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=408s
+----------------------------------------
+Time: 00:06:50.160 - 00:06:52.110
+Text: help programmers figure out what's what
+in the source code good documentation
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=410s
+----------------------------------------
+Time: 00:06:52.120 - 00:06:53.830
+Text: in the source code good documentation
+helps programmers when they revisit code
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=412s
+----------------------------------------
+Time: 00:06:53.840 - 00:06:55.350
+Text: helps programmers when they revisit code
+they haven't seen for a while but it's
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=413s
+----------------------------------------
+Time: 00:06:55.360 - 00:06:56.909
+Text: they haven't seen for a while but it's
+also crucial for programmers who are
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=415s
+----------------------------------------
+Time: 00:06:56.919 - 00:06:58.550
+Text: also crucial for programmers who are
+totally new to it I just want to take a
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=416s
+----------------------------------------
+Time: 00:06:58.560 - 00:07:00.589
+Text: totally new to it I just want to take a
+second here and reiterate that it's the
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=418s
+----------------------------------------
+Time: 00:07:00.599 - 00:07:02.670
+Text: second here and reiterate that it's the
+worst when someone parachutes a load of
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=420s
+----------------------------------------
+Time: 00:07:02.680 - 00:07:04.589
+Text: worst when someone parachutes a load of
+uncommented and undocumented code into
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=422s
+----------------------------------------
+Time: 00:07:04.599 - 00:07:06.430
+Text: uncommented and undocumented code into
+your lab and you literally have to go
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=424s
+----------------------------------------
+Time: 00:07:06.440 - 00:07:08.110
+Text: your lab and you literally have to go
+line by line to understand what the code
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=426s
+----------------------------------------
+Time: 00:07:08.120 - 00:07:10.909
+Text: line by line to understand what the code
+is doing seriously don't be that person
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=428s
+----------------------------------------
+Time: 00:07:10.919 - 00:07:13.430
+Text: is doing seriously don't be that person
+documentation also promotes code reuse
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=430s
+----------------------------------------
+Time: 00:07:13.440 - 00:07:14.749
+Text: documentation also promotes code reuse
+so instead of having programmers
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=433s
+----------------------------------------
+Time: 00:07:14.759 - 00:07:16.070
+Text: so instead of having programmers
+constantly write the same things over
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=434s
+----------------------------------------
+Time: 00:07:16.080 - 00:07:17.749
+Text: constantly write the same things over
+and over they can track down someone
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=436s
+----------------------------------------
+Time: 00:07:17.759 - 00:07:19.950
+Text: and over they can track down someone
+else's code that does what they need
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=437s
+----------------------------------------
+Time: 00:07:19.960 - 00:07:21.510
+Text: else's code that does what they need
+then thanks to documentation they can
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=439s
+----------------------------------------
+Time: 00:07:21.520 - 00:07:23.469
+Text: then thanks to documentation they can
+put it to work in their program without
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=441s
+----------------------------------------
+Time: 00:07:23.479 - 00:07:25.270
+Text: put it to work in their program without
+ever having to read through the code
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=443s
+----------------------------------------
+Time: 00:07:25.280 - 00:07:27.150
+Text: ever having to read through the code
+read the docs as they say in addition to
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=445s
+----------------------------------------
+Time: 00:07:27.160 - 00:07:28.589
+Text: read the docs as they say in addition to
+ID is another important piece of
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=447s
+----------------------------------------
+Time: 00:07:28.599 - 00:07:30.150
+Text: ID is another important piece of
+software that helps big teams work
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=448s
+----------------------------------------
+Time: 00:07:30.160 - 00:07:32.070
+Text: software that helps big teams work
+collaboratively on big coding projects
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=450s
+----------------------------------------
+Time: 00:07:32.080 - 00:07:34.350
+Text: collaboratively on big coding projects
+is called Source control also known as
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=452s
+----------------------------------------
+Time: 00:07:34.360 - 00:07:36.830
+Text: is called Source control also known as
+Version Control or revision control most
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=454s
+----------------------------------------
+Time: 00:07:36.840 - 00:07:38.629
+Text: Version Control or revision control most
+often a big software company like apple
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=456s
+----------------------------------------
+Time: 00:07:38.639 - 00:07:40.350
+Text: often a big software company like apple
+or Microsoft code for projects dist
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=458s
+----------------------------------------
+Time: 00:07:40.360 - 00:07:42.150
+Text: or Microsoft code for projects dist
+stored on centralized servers called a
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=460s
+----------------------------------------
+Time: 00:07:42.160 - 00:07:44.270
+Text: stored on centralized servers called a
+code repository when a programmer wants
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=462s
+----------------------------------------
+Time: 00:07:44.280 - 00:07:45.869
+Text: code repository when a programmer wants
+to work on a piece of code they can
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=464s
+----------------------------------------
+Time: 00:07:45.879 - 00:07:47.629
+Text: to work on a piece of code they can
+check it out sort of like checking out a
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=465s
+----------------------------------------
+Time: 00:07:47.639 - 00:07:49.550
+Text: check it out sort of like checking out a
+book from a library often this can be
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=467s
+----------------------------------------
+Time: 00:07:49.560 - 00:07:51.950
+Text: book from a library often this can be
+done right in an IDE then they can edit
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=469s
+----------------------------------------
+Time: 00:07:51.960 - 00:07:53.149
+Text: done right in an IDE then they can edit
+this code all they want on their
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=471s
+----------------------------------------
+Time: 00:07:53.159 - 00:07:55.110
+Text: this code all they want on their
+personal computer adding new features
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=473s
+----------------------------------------
+Time: 00:07:55.120 - 00:07:56.830
+Text: personal computer adding new features
+and testing if they work when the
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=475s
+----------------------------------------
+Time: 00:07:56.840 - 00:07:58.270
+Text: and testing if they work when the
+programmer is confident their changes
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=476s
+----------------------------------------
+Time: 00:07:58.280 - 00:08:00.230
+Text: programmer is confident their changes
+are working and there are no Lo ends
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=478s
+----------------------------------------
+Time: 00:08:00.240 - 00:08:01.710
+Text: are working and there are no Lo ends
+they can check the code back into the
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=480s
+----------------------------------------
+Time: 00:08:01.720 - 00:08:04.029
+Text: they can check the code back into the
+repository known as committing code for
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=481s
+----------------------------------------
+Time: 00:08:04.039 - 00:08:05.710
+Text: repository known as committing code for
+everyone else to use while a piece of
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=484s
+----------------------------------------
+Time: 00:08:05.720 - 00:08:07.189
+Text: everyone else to use while a piece of
+code is checked out and presumably
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=485s
+----------------------------------------
+Time: 00:08:07.199 - 00:08:08.990
+Text: code is checked out and presumably
+getting updated or modified other
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=487s
+----------------------------------------
+Time: 00:08:09.000 - 00:08:10.909
+Text: getting updated or modified other
+programmers leave it alone this prevents
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=489s
+----------------------------------------
+Time: 00:08:10.919 - 00:08:13.110
+Text: programmers leave it alone this prevents
+weird conflicts and duplicated work in
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=490s
+----------------------------------------
+Time: 00:08:13.120 - 00:08:14.830
+Text: weird conflicts and duplicated work in
+this way hundreds of programmers can be
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=493s
+----------------------------------------
+Time: 00:08:14.840 - 00:08:16.589
+Text: this way hundreds of programmers can be
+simultaneously checking in and out
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=494s
+----------------------------------------
+Time: 00:08:16.599 - 00:08:18.589
+Text: simultaneously checking in and out
+different pieces of code iteratively
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=496s
+----------------------------------------
+Time: 00:08:18.599 - 00:08:20.830
+Text: different pieces of code iteratively
+building up huge systems critically you
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=498s
+----------------------------------------
+Time: 00:08:20.840 - 00:08:22.670
+Text: building up huge systems critically you
+don't want someone committing buggy code
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=500s
+----------------------------------------
+Time: 00:08:22.680 - 00:08:24.309
+Text: don't want someone committing buggy code
+because other people and teams May rely
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=502s
+----------------------------------------
+Time: 00:08:24.319 - 00:08:26.390
+Text: because other people and teams May rely
+on it their code could crash creating
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=504s
+----------------------------------------
+Time: 00:08:26.400 - 00:08:28.350
+Text: on it their code could crash creating
+confusion and lost time the master
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=506s
+----------------------------------------
+Time: 00:08:28.360 - 00:08:29.670
+Text: confusion and lost time the master
+version of the code stored on on the
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=508s
+----------------------------------------
+Time: 00:08:29.680 - 00:08:31.390
+Text: version of the code stored on on the
+server should always compile without
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=509s
+----------------------------------------
+Time: 00:08:31.400 - 00:08:33.310
+Text: server should always compile without
+errors and run with minimal bugs but
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=511s
+----------------------------------------
+Time: 00:08:33.320 - 00:08:35.310
+Text: errors and run with minimal bugs but
+sometimes bugs do creep in fortunately
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=513s
+----------------------------------------
+Time: 00:08:35.320 - 00:08:36.870
+Text: sometimes bugs do creep in fortunately
+Source Control software keeps track of
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=515s
+----------------------------------------
+Time: 00:08:36.880 - 00:08:38.709
+Text: Source Control software keeps track of
+all changes and if a bug is found the
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=516s
+----------------------------------------
+Time: 00:08:38.719 - 00:08:40.550
+Text: all changes and if a bug is found the
+whole code or just a piece can be rolled
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=518s
+----------------------------------------
+Time: 00:08:40.560 - 00:08:42.589
+Text: whole code or just a piece can be rolled
+back to an earlier stable version it
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=520s
+----------------------------------------
+Time: 00:08:42.599 - 00:08:44.790
+Text: back to an earlier stable version it
+also keeps track of who made each change
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=522s
+----------------------------------------
+Time: 00:08:44.800 - 00:08:47.070
+Text: also keeps track of who made each change
+so co-workers can send nasty I mean
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=524s
+----------------------------------------
+Time: 00:08:47.080 - 00:08:49.310
+Text: so co-workers can send nasty I mean
+helpful and encouraging emails to the
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=527s
+----------------------------------------
+Time: 00:08:49.320 - 00:08:51.070
+Text: helpful and encouraging emails to the
+offending person debugging goes hand
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=529s
+----------------------------------------
+Time: 00:08:51.080 - 00:08:52.990
+Text: offending person debugging goes hand
+inhand with writing code and it's most
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=531s
+----------------------------------------
+Time: 00:08:53.000 - 00:08:54.630
+Text: inhand with writing code and it's most
+often done by an individual or small
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=533s
+----------------------------------------
+Time: 00:08:54.640 - 00:08:56.230
+Text: often done by an individual or small
+team the big picture version of
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=534s
+----------------------------------------
+Time: 00:08:56.240 - 00:08:57.990
+Text: team the big picture version of
+debugging is quality assurance testing
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=536s
+----------------------------------------
+Time: 00:08:58.000 - 00:09:00.190
+Text: debugging is quality assurance testing
+or QA this is where team rigorously
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=538s
+----------------------------------------
+Time: 00:09:00.200 - 00:09:02.069
+Text: or QA this is where team rigorously
+tests out a piece of software attempting
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=540s
+----------------------------------------
+Time: 00:09:02.079 - 00:09:03.590
+Text: tests out a piece of software attempting
+to create unforeseen conditions that
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=542s
+----------------------------------------
+Time: 00:09:03.600 - 00:09:05.790
+Text: to create unforeseen conditions that
+might trip it up basically they elicit
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=543s
+----------------------------------------
+Time: 00:09:05.800 - 00:09:07.509
+Text: might trip it up basically they elicit
+bugs getting all the wrinkles out is a
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=545s
+----------------------------------------
+Time: 00:09:07.519 - 00:09:09.790
+Text: bugs getting all the wrinkles out is a
+huge effort but vital in making sure the
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=547s
+----------------------------------------
+Time: 00:09:09.800 - 00:09:12.069
+Text: huge effort but vital in making sure the
+software works as intended for as many
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=549s
+----------------------------------------
+Time: 00:09:12.079 - 00:09:14.030
+Text: software works as intended for as many
+users in as many situations as
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=552s
+----------------------------------------
+Time: 00:09:14.040 - 00:09:16.069
+Text: users in as many situations as
+imaginable before it ships you've
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=554s
+----------------------------------------
+Time: 00:09:16.079 - 00:09:17.870
+Text: imaginable before it ships you've
+probably heard of beta software this is
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=556s
+----------------------------------------
+Time: 00:09:17.880 - 00:09:19.269
+Text: probably heard of beta software this is
+a version of software that's mostly
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=557s
+----------------------------------------
+Time: 00:09:19.279 - 00:09:21.710
+Text: a version of software that's mostly
+complete but not 100% fully tested
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=559s
+----------------------------------------
+Time: 00:09:21.720 - 00:09:23.230
+Text: complete but not 100% fully tested
+companies will sometimes release beta
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=561s
+----------------------------------------
+Time: 00:09:23.240 - 00:09:24.829
+Text: companies will sometimes release beta
+versions to the public to help them
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=563s
+----------------------------------------
+Time: 00:09:24.839 - 00:09:26.829
+Text: versions to the public to help them
+identify issues it's essentially like
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=564s
+----------------------------------------
+Time: 00:09:26.839 - 00:09:29.110
+Text: identify issues it's essentially like
+getting a free QA te what you don't hear
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=566s
+----------------------------------------
+Time: 00:09:29.120 - 00:09:30.750
+Text: getting a free QA te what you don't hear
+about as much is the version that comes
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=569s
+----------------------------------------
+Time: 00:09:30.760 - 00:09:33.269
+Text: about as much is the version that comes
+before the beta the Alpha version this
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=570s
+----------------------------------------
+Time: 00:09:33.279 - 00:09:35.150
+Text: before the beta the Alpha version this
+is usually so rough and buggy it's only
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=573s
+----------------------------------------
+Time: 00:09:35.160 - 00:09:37.150
+Text: is usually so rough and buggy it's only
+tested internally so that's the tip of
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=575s
+----------------------------------------
+Time: 00:09:37.160 - 00:09:38.790
+Text: tested internally so that's the tip of
+the iceberg in terms of the tools tricks
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=577s
+----------------------------------------
+Time: 00:09:38.800 - 00:09:40.470
+Text: the iceberg in terms of the tools tricks
+and techniques that allow software
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=578s
+----------------------------------------
+Time: 00:09:40.480 - 00:09:42.150
+Text: and techniques that allow software
+Engineers to construct the huge pieces
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=580s
+----------------------------------------
+Time: 00:09:42.160 - 00:09:44.470
+Text: Engineers to construct the huge pieces
+of software that we know and love today
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=582s
+----------------------------------------
+Time: 00:09:44.480 - 00:09:46.550
+Text: of software that we know and love today
+like YouTube Grand Theft Auto 5 and
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=584s
+----------------------------------------
+Time: 00:09:46.560 - 00:09:48.550
+Text: like YouTube Grand Theft Auto 5 and
+PowerPoint as you might expect all those
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=586s
+----------------------------------------
+Time: 00:09:48.560 - 00:09:49.990
+Text: PowerPoint as you might expect all those
+millions of lines of code need some
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=588s
+----------------------------------------
+Time: 00:09:50.000 - 00:09:51.829
+Text: millions of lines of code need some
+serious processing power to run at
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=590s
+----------------------------------------
+Time: 00:09:51.839 - 00:09:54.190
+Text: serious processing power to run at
+useful speeds so next episode we'll be
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=591s
+----------------------------------------
+Time: 00:09:54.200 - 00:09:55.710
+Text: useful speeds so next episode we'll be
+talking about how computers got so
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=594s
+----------------------------------------
+Time: 00:09:55.720 - 00:09:58.430
+Text: talking about how computers got so
+incredibly fast see you then crash
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=595s
+----------------------------------------
+Time: 00:09:58.440 - 00:10:00.069
+Text: incredibly fast see you then crash
+course computer science is produced in
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=598s
+----------------------------------------
+Time: 00:10:00.079 - 00:10:02.550
+Text: course computer science is produced in
+association with PBS digital Studios at
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=600s
+----------------------------------------
+Time: 00:10:02.560 - 00:10:03.790
+Text: association with PBS digital Studios at
+their Channel you can check out a
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=602s
+----------------------------------------
+Time: 00:10:03.800 - 00:10:05.829
+Text: their Channel you can check out a
+playlist of shows like physics go deep
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=603s
+----------------------------------------
+Time: 00:10:05.839 - 00:10:08.269
+Text: playlist of shows like physics go deep
+look and PBS SpaceTime this episode was
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=605s
+----------------------------------------
+Time: 00:10:08.279 - 00:10:10.310
+Text: look and PBS SpaceTime this episode was
+filmed at the Chad and Stacy emal studio
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=608s
+----------------------------------------
+Time: 00:10:10.320 - 00:10:12.470
+Text: filmed at the Chad and Stacy emal studio
+in Indianapolis Indiana and it was made
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=610s
+----------------------------------------
+Time: 00:10:12.480 - 00:10:14.110
+Text: in Indianapolis Indiana and it was made
+with the help of all these nice people
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=612s
+----------------------------------------
+Time: 00:10:14.120 - 00:10:15.790
+Text: with the help of all these nice people
+and our wonderful Graphics team thought
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=614s
+----------------------------------------
+Time: 00:10:15.800 - 00:10:17.190
+Text: and our wonderful Graphics team thought
+Cafe that's where we're going to have to
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=615s
+----------------------------------------
+Time: 00:10:17.200 - 00:10:23.080
+Text: Cafe that's where we're going to have to
+Halt and Catch Fire see you next week
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=617s
+----------------------------------------
+Time: 00:00:19.830 - 00:00:19.840
+Text: notepad really but a sorting algorithm
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=19s
+----------------------------------------
+Time: 00:00:26.070 - 00:00:26.080
+Text: example Microsoft Office has roughly 40
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=26s
+----------------------------------------
+Time: 00:00:37.190 - 00:00:37.200
+Text: and practices taken together these form
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=37s
+----------------------------------------
+Time: 00:00:45.190 - 00:00:45.200
+Text: problems on the Apollo 11 Mission To The
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=45s
+----------------------------------------
+Time: 00:00:47.229 - 00:00:47.239
+Text: Moon she want explained it this way it's
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=47s
+----------------------------------------
+Time: 00:01:31.789 - 00:01:31.799
+Text: one person not te to manage the solution
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=91s
+----------------------------------------
+Time: 00:01:38.149 - 00:01:38.159
+Text: objects for example cars software might
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=98s
+----------------------------------------
+Time: 00:02:08.309 - 00:02:08.319
+Text: able to stop and start it for example
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=128s
+----------------------------------------
+Time: 00:03:39.670 - 00:03:39.680
+Text: control example its code is going to
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=219s
+----------------------------------------
+Time: 00:04:05.670 - 00:04:05.680
+Text: parts of the code for example in the
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=245s
+----------------------------------------
+Time: 00:04:43.629 - 00:04:43.639
+Text: example only other functions inside of
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=283s
+----------------------------------------
+Time: 00:05:16.390 - 00:05:16.400
+Text: Python and Java it's important to
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=316s
+----------------------------------------
+Time: 00:05:18.070 - 00:05:18.080
+Text: remember that code before being compiled
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=318s
+----------------------------------------
+Time: 00:05:22.150 - 00:05:22.160
+Text: could write code in notepad or any old
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=322s
+----------------------------------------
+Time: 00:06:13.830 - 00:06:13.840
+Text: important because most programmers spend
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=373s
+----------------------------------------
+Time: 00:06:32.510 - 00:06:32.520
+Text: debugging another important part of a
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=392s
+----------------------------------------
+Time: 00:07:28.589 - 00:07:28.599
+Text: ID is another important piece of
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=448s
+----------------------------------------
+Time: 00:08:20.830 - 00:08:20.840
+Text: building up huge systems critically you
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=500s
+----------------------------------------
+Time: 00:09:26.829 - 00:09:26.839
+Text: identify issues it's essentially like
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=566s
+----------------------------------------
+Time: 00:09:37.150 - 00:09:37.160
+Text: tested internally so that's the tip of
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=577s
+----------------------------------------
+Time: 00:09:38.790 - 00:09:38.800
+Text: the iceberg in terms of the tools tricks
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=578s
+----------------------------------------
+Time: 00:09:40.470 - 00:09:40.480
+Text: and techniques that allow software
+Link: https://youtu.be/O753uuutqH8?si=Djg3ia6Plad_1x0Z&t=580s
+----------------------------------------

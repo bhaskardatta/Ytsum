@@ -1,0 +1,5 @@
+[excited] Alex: Hey everyone, welcome to the show!
+[friendly] Chris: Today we're discussing some amazing tech.
+[enthused] Alex: Hey Chris, have you ever given a thought about how much goes into a program like Microsoft Office?
+[interested] Chris: Oh, absolutely. When you think about it, there's so much more than just a sorting algorithm in such a massive application.
+[determined] Alex: Exactly. Even though a sorting algorithm is relatively simple, it's just one tiny piece of the puzzle in Microsoft Office. With 40 million
